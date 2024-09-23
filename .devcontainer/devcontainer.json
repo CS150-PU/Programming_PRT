@@ -5,9 +5,9 @@
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
-	"features": {
-		"ghcr.io/devcontainers-contrib/features/dprint-asdf:2": {}
-	},
+	// "features": {
+	// 	"ghcr.io/devcontainers-contrib/features/dprint-asdf:2": {}
+	// },
 	"customizations": {
 		"vscode": {
 			"extensions": [
